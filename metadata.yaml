@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7830
     wikipedia: http://en.wikipedia.org/wiki/Alexander_Smith_(poet)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18135#DreamthorpA-Book-of-Essays-Written-in-the-Country
 gutenberg_bookshelf: Horticulture
 gutenberg_issued: '2006-04-09'
 gutenberg_type: Text
